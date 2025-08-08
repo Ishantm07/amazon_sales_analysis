@@ -1,4 +1,4 @@
-# Ecommerce Sales Analysis
+# Amazon Sales Analysis
 
 This repository contains an end-to-end analysis of e-commerce sales using various visualizations and data transformations.
 
