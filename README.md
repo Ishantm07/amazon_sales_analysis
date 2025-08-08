@@ -23,7 +23,7 @@ This repository contains an end-to-end analysis of e-commerce sales using variou
 ## Tech Stack
 
 - Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
+- Visual Basic Studio
 - Git & GitHub
 
 ---
