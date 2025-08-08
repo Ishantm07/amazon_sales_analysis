@@ -22,6 +22,7 @@ This repository contains an end-to-end analysis of e-commerce sales using variou
 
 ## Tech Stack
 
+- SQL (Medallion Architecture)
 - Python (Pandas, Matplotlib, Seaborn)
 - Visual Basic Studio
 - Git & GitHub
